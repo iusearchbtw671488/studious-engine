@@ -1,0 +1,29 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    font-family: system-ui, sans-serif;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+
+h1 { color: #333; margin-bottom: 20px; }
+
+.cat {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 15px;
+    display: block;
+}
+
+.caption { margin-top: 15px; color: #666; }
